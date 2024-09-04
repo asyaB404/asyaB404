@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there is Basya404👋
+
+🤔 I’m interested in Game Development & Design. <br>
+🌱 I’m currently learning Unity & C#. <br>
+👯 I’m looking to collaborate on game development projects(GameJam), especially those using Unity and C#. <br> 
+🤔 I’m looking for help with advanced Unity techniques, optimizing game performance, or integrating multiplayer features. <br>
+💬 Ask me about game mechanics, Unity tips, or C# scripting. <br>
+📫 How to reach me: nepbasya@gmail.com. <br>
+😄 Pronouns: cowHorse. <br>
+⚡ Fun fact: A "cowHorse" is actually a combination of a cow and a horse. <br>
+📁 Unity WebGL Demos: [Click here!](https://play.unity.com/en/user/61bd1eb0-a214-42eb-91c1-e1e09e64b2a0) <br>
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=asyaB404&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&&hide=issues)](https://github.com/asyaB404) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaB404&layout=compact&show_icons=true&theme=radical)](https://github.com/asyaB404)
+
 
 <!--
 **asyaB404/asyaB404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
