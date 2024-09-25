@@ -12,9 +12,7 @@
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api?username=asyaB404&show_icons=true&theme=light" />
-  <br />
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyaB404&layout=compact&hide_title=1&card_width=300&hide=GLSL,HLSL" alt="Top language used in my repos" />
-  <br />
 </div>
 
 
