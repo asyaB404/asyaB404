@@ -11,7 +11,7 @@
 📁 Unity WebGL Demos: [Click here!](https://play.unity.com/en/user/61bd1eb0-a214-42eb-91c1-e1e09e64b2a0) <br>
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api?username=asyaB404&show_icons=true&theme=light" />
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=asyaB404&show_icons=true&theme=light&include_all_commits=true" />
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyaB404&layout=compact&hide_title=1&card_width=300&hide=GLSL,HLSL" alt="Top language used in my repos" />
 </div>
 
