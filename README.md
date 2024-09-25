@@ -10,7 +10,7 @@
 ⚡ Fun fact: A "cowHorse" is actually a combination of a cow and a horse. <br>
 📁 Unity WebGL Demos: [Click here!](https://play.unity.com/en/user/61bd1eb0-a214-42eb-91c1-e1e09e64b2a0) <br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=asyaB404&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&hide=issues)](https://github.com/asyaB404) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaB404&layout=compact&show_icons=true&theme=radical&hide=GLSL,HLSL)](https://github.com/asyaB404)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=asyaB404&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues)](https://github.com/asyaB404) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaB404&layout=compact&show_icons=true&theme=radical&hide=GLSL,HLSL)](https://github.com/asyaB404)
 
 
 <!--
