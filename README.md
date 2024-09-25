@@ -12,7 +12,7 @@
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api?username=asyaB404&show_icons=true&theme=radical&count_private=true&hide=issues" />
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyaB404&layout=compact&hide_title=1&card_width=300&hide=GLSL,HLSL" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyaB404&layout=compact&hide_title=1&card_width=300&hide=GLSL,HLSL&theme=radical" alt="Top language used in my repos" />
 </div>
 
 
