@@ -2,8 +2,6 @@
 
 [![](https://readme-typing-svg.demolab.com?font=Luckiest+Guy&pause=1000&color=C715F7&width=435&lines=Hello+and+welcome)](https://git.io/typing-svg)
 
-[![](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Extended+Text&duration=1&pause=1000&color=C715F7&width=435&lines=Imagine+all+the+people+living+life+in+peace.)](https://git.io/typing-svg)
-
              ____________________________________________________
             /                                                    \
            |    _____________________________________________     |
